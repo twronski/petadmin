@@ -21,4 +21,12 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Setup
+
+Added gems
++ fae-rails
++ sidekiq
++ redis
+
+
 * ...
